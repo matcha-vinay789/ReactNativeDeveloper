@@ -32,10 +32,10 @@ const styles = StyleSheet.create({
   inputContainer: {
     flexDirection: 'row',
     alignItems: 'center',
-    borderBottomWidth: 1,
+    borderBottomWidth: 2,
     borderBottomColor: theme.colors.border,
     marginBottom: theme.spacing.medium,
-    borderRadius: 30,
+    borderRadius: 35,
   },
   input: {
     flex: 1,
@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
   },
   leftIconContainer: {
     position: 'absolute',
-    left: 5,
+    left: 0,
     top: '50%',
     transform: [{ translateY: -10 }],
   },

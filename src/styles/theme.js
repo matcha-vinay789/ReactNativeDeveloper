@@ -8,7 +8,7 @@ const theme = {
     white: '#FFFFFF',
     border: '#D0D0D0',
     skyColor: '#ebf6ff',
-    lightColor: '#4b9ce2'
+    lightColor: '#a2c1de'
   },
   fontSizes: {
     regular: 16,
